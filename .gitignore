@@ -12,7 +12,7 @@
 node_modules/
 .tmp/
 
-# OS or Editor folders
+# OS or Editor folders --
 .DS_Store
 Thumbs.db
 .cache
